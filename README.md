@@ -1,0 +1,1 @@
+Throwaway repo for lucmoseley/mmm-infra#11: does a Pages CMS edit, and a commit by a collaborator who is not the Vercel account owner, deploy on Vercel Hobby from a public repo? Delete once #11 is resolved.

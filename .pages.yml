@@ -1,0 +1,10 @@
+content:
+  - name: home
+    label: Home
+    type: file
+    path: content/home.json
+    format: json
+    fields:
+      - name: headline
+        label: Headline
+        type: string
